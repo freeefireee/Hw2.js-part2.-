@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+
+#result {
+    margin-top: 10px;
+  }
+
+  .Id {
+    text-align: center;
+      padding-top: 100px;
+      border: 10px solid rgb(67, 241, 105);
+      border-radius: 20px;
+      width: 500px;
+      margin: 10px auto;
+      background-color: rgb(58, 55, 55);
+      color: floralwhite;
+  }
